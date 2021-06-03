@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tarletons tragical treatises contaynyng sundrie discourses and prety conceytes, both in prose and verse.</title>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B16042</idno><idno type="EEBO-CITATION">99841757</idno>
+  <idno type="VID">176910</idno>
+  <idno type="EEBO-PROQUEST">2240872244</idno>
+  <idno type="STC">STC 23687.5</idno>
+  <idno type="STC">ESTC S106032</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99841757e"/>
+            <note>(EEBO-TCP ; phase 2, no. B16042)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176910)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 718:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Tarletons tragical treatises contaynyng sundrie discourses and prety conceytes, both in prose and verse.</title>
+                  <author>Tarlton, Richard, d. 1588, supposed name. aut</author>
+               </titleStmt>
+               <extent>[16+] p.   </extent>
+               <publicationStmt>
+                  <publisher>By Henry Bynneman,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>An. 1578.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Although the Dedication is signed "Richard Tarleton", he was probably not the author.--STC.</note>
+                  <note>Signatures: *+.</note>
+                  <note>Identified as STC 23688a on UMI microfilm.</note>
+                  <note>Imperfect: lacks all after *8.</note>
+                  <note>Reproduction of the original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Tarlton, Richard, d. 1588 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:176910:1"/>
+            <pb facs="tcp:176910:1"/>
+            <p>TARLETONS Tragical Treatises, <hi>Contaynyng sundrie</hi> discourses and <hi>pre<g ref="char:EOLhyphen"/>ty Conceytes, both in Prose and</hi> Verse.</p>
+            <p>Imprinted at <hi>Lon<g ref="char:EOLhyphen"/>don by Henry</hi> Bynneman.</p>
+            <p>
+               <hi>An.</hi> 1578.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:176910:2"/>
+            <pb facs="tcp:176910:2"/>
+            <head>¶ To the right honourable and vertuous Lady, the Lady <hi>Frauncis Mildmay, Richard Tarleton wisheth long life, and prosperous health, with happy en<g ref="char:EOLhyphen"/>crease of Honor.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>HEN I throughly conferred, (right Honourable and my ve<g ref="char:EOLhyphen"/>ry good Lady) your noble for<g ref="char:EOLhyphen"/>wardenesse in all godly Litera<g ref="char:EOLhyphen"/>ture, your graue and approued iudgement, with my base sim<g ref="char:EOLhyphen"/>plicitie, and slender vnderstanding: I stoode ho<g ref="char:EOLhyphen"/>uering a great while betwene the extremities of a double doubt, whether I were beste to sollicite your good Ladiship with the view of these thrift lesse lines or no. But when I called to mynde your Honors courteous disposition of Nature, and readye inclination to accept of the trauells of all suche as do but stande aloofe, yet beare a certaine peculiar reuerence to good letters, a freshe hope so armde or rather warmde my for<g ref="char:EOLhyphen"/>mer frosen doubt, that all feare sette aparte, I
+<pb facs="tcp:176910:3"/> rashly aduentured the publishing of this peeuish Pamphlet vnder the patronage of your Honors name: where I knowe it may haue as safe a re<g ref="char:EOLhyphen"/>fuge, as if it were protected vnder the Target of <hi>Minerua,</hi> againste the poisoned Inuectiues &amp; malicious reproches of all slaunderous tongs. Perhaps (Madam) your Honor wyll haue me in some suspition of Arrogancie, in as muche as I haue presumed to trouble, or rather weary your honorable eares with so vaine an argument, as these fantasticall trifles: But yet my faithfull and affectionate zeale (vnto youre good Ladi<g ref="char:EOLhyphen"/>ship so forwardly addicted) had in due conside<g ref="char:EOLhyphen"/>ration: my ouer boldnesse may be rather attri<g ref="char:EOLhyphen"/>buted to my want of knowlege, than presump<g ref="char:EOLhyphen"/>tion, in as much as your Honor is not altogi<g ref="char:EOLhyphen"/>ther ignorant, that I neuer marched among the Muses, nor serued in the campe where Learning as Chieftaine had hir sacred residence. But had I <hi>Platoes</hi> diuine Im<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ginations, <hi>Aristotles</hi> Philo<g ref="char:EOLhyphen"/>sophy, <hi>Archi<gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>e's</hi> Geometrie, <hi>Orpheus</hi> Mu<g ref="char:EOLhyphen"/>sicke, or <hi>Tullies</hi> Eloquence, yet wold I not haue such a glorious opinion of my own excellency, but I could willingly, and would moste gladly
+<pb facs="tcp:176910:3"/> submit my selfe, my skill, and all vnto your La<g ref="char:EOLhyphen"/>diships approued iudgement, and fauorable pro<g ref="char:EOLhyphen"/>tection: especially, being one, whose honorable opinion of my poore skill vnworthily, and ma<g ref="char:EOLhyphen"/>nifolde bounties vndeserued, haue bin sundrye times of my parte well proued and tasted, to my no little credite, and very great benefite. I might haue taken sufficient occasion in these su<g ref="char:EOLhyphen"/>perfluous Pamphlets to haue entred into a ne<g ref="char:EOLhyphen"/>cessary <hi>Enchomiasticon</hi> of your Honors sundrye good vertues and noble qualities, if without the helpe of my barren blazoning, they were not already so notified to all the worlde, that youre Ladiships iust praises are in euery mans mouth: and besids in the attempting of it, there depēds a double daunger. Firste, leaste seeming to wade so farre into the discourse thereof, as the matter yeelds iuste scope, by this meanes I get the name and note of a Thrasonicall Clawback: The other doubt is, leaste vndertaking so diffi<g ref="char:EOLhyphen"/>culte a taske, and not able to discharge it accor<g ref="char:EOLhyphen"/>ding to the dignitie and worthinesse thereof, I wrappe my selfe in such an intricate Labyrinth, that I shall hardely winde my selfe out without
+<pb facs="tcp:176910:4"/> some spotte, or blemishe to my credite. And therefore I will yeelde thaccomplishing of that enterprise to other, whose Muse ca better wade through so daungerous a forde, than mine.</p>
+            <p>Meane space in moste deuout maner I am to request your Ladiships fauourable acceptation of these treatises, and to esteeme of them, as a perfect testimony of the good heart and duti<g ref="char:EOLhyphen"/>full zeale of</p>
+            <closer>
+               <signed>Your honors most humble at com<g ref="char:EOLhyphen"/>maundement, Richard Tarleton, Ser<g ref="char:EOLhyphen"/>uaunt to the right Honourable the Lorde Chamberlaene Earle of <hi>Sussex.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="encomium">
+            <pb facs="tcp:176910:4"/>
+            <head>¶ T. A. in praise of the Authour.</head>
+            <lg>
+               <l>FOr him, whome <hi>Pallas</hi> with hir milke did nurse</l>
+               <l>And lullabide vpon the Muses lappes,</l>
+               <l>Tis not so rare to write a braue discourse</l>
+               <l>Of strange aduentures past, and vncouth happes.</l>
+               <l>Ne is it harde, a greater taske to welde,</l>
+               <l>VVhereas the Theame sufficiet scope doth yeeld▪</l>
+            </lg>
+            <lg>
+               <l>But hee that neuer tasted Learnings lore,</l>
+               <l>Nor many a Region nie <hi>Pernassus</hi> came,</l>
+               <l>To write in things but seldome seene before,</l>
+               <l>In that respect demerites double fame:</l>
+               <l>But specially vpon such toies to write,</l>
+               <l>As yeelde so little matter to endite.</l>
+            </lg>
+            <lg>
+               <l>Then <hi>Tarleton</hi> thou deseruest double praise,</l>
+               <l>Sith that with arte so slenderly possest,</l>
+               <l>Thy Muse hir nature in these toies displaies</l>
+               <l>More learnedly than any of the rest:</l>
+               <l>VVhose gifts of Arte so farre inferior be</l>
+               <l>To those which Nature planted hath in thee.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="encomium">
+            <pb facs="tcp:176910:5"/>
+            <head>Ferdinando Frecleton Gentle<g ref="char:EOLhyphen"/>man, in praise of these treatises.</head>
+            <lg>
+               <l>IF blinde men could of costlie colours iudge,</l>
+               <l>and intermedle with <hi>Apelles</hi> arte,</l>
+               <l>Or were not fretting Enuie giuen to grudge</l>
+               <l>the faith of him who plaies a friendlie parte,</l>
+               <l>Or if my skill coulde see in causes deepe,</l>
+               <l>I would reueale what nowe I secreate keepe.</l>
+            </lg>
+            <lg>
+               <l>Yet shall my blunt opinion somewhat reach</l>
+               <l>beyonde the dombe mindes of the common sort,</l>
+               <l>My Muse and I shall make a fearefull breache,</l>
+               <l>if silence hide thy well deservde reporte,</l>
+               <l>VVhose pleasante heade can cunningly conuey,</l>
+               <l>In pithie speache thy meaning euerie way.</l>
+            </lg>
+            <lg>
+               <l>And where I lookte for manie a wanton drifte,</l>
+               <l>of tales and ridles in this booke of thine,</l>
+               <l>Nowe do I see thou canste bestow thy gifte</l>
+               <l>in grauer geere both learned and diuine,</l>
+               <l>For (trust me <hi>Tarleton</hi>) in thy worke a pears,</l>
+               <l>A platforme that both sense and matter lears.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="encomium">
+            <pb facs="tcp:176910:5"/>
+            <head>Levvis Ph. Gentleman in commendation of the <hi>Authour.</hi>
+            </head>
+            <lg>
+               <l>FAine would I write, yet fainer would I cease,</l>
+               <l>faine would I tell what truth hath giuen in charge,</l>
+               <l>The snatching sort do daily so increase</l>
+               <l>it makes me briefe, that else wold write at large.</l>
+               <l>Faine would I praise these treaties lately pend,</l>
+               <l>But that I feare, though causlesse, to offend.</l>
+            </lg>
+            <lg>
+               <l>VVhat, shall the labourer then go lose his hire,</l>
+               <l>whose carefull head hath toilde for our delite,</l>
+               <l>And all his paines lie tumbled in the mire?</l>
+               <l>shall slacke regarde his courtesie requite?</l>
+               <l>No <hi>Tarleton,</hi> no, I giue thee for amends</l>
+               <l>A thousand thankes as guerdon from thy friends.</l>
+            </lg>
+            <lg>
+               <l>And at thy handes I challenge one requeste,</l>
+               <l>thy promise partlie yeelds it as my due,</l>
+               <l>VVhich if performance answer all the rest,</l>
+               <l>then will I say thy wordes and deeds be true▪</l>
+               <l>It is thy Theames in order one by one,</l>
+               <l>To keepe thy fame aliue when thou arte gone.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:176910:6"/>
+               <l>Yet blame me not good <hi>Dicke,</hi> though I encroche</l>
+               <l>to take thy word, as if it were a band:</l>
+               <l>It is bicause I faine would set abroche</l>
+               <l>the thing thou closely keepeste in thy hand,</l>
+               <l>But in meane space thy trifles welcome bee,</l>
+               <l>And thus farewell, for Theames remember mee.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <head>The Authours iudgement of such rashe verdicts as are gy<g ref="char:EOLhyphen"/>uen in dispraise of Poets.</head>
+            <lg>
+               <l>IF men may credite such records,</l>
+               <l>as inke and paper showes</l>
+               <l>To spring from Poets learned heads,</l>
+               <l>which cunningly disclose</l>
+               <l>The strange varieties of things,</l>
+               <l>the choice of mens delites,</l>
+               <l>The heauēs, the earth, the seas, the shoare,</l>
+               <l>the gods, and ghostly sprites,</l>
+               <l>The secreate mysteries of Starres,</l>
+               <l>and planets in degrée,</l>
+               <pb facs="tcp:176910:6"/>
+               <l>With euery sundry office, that</l>
+               <l>to them belonging be.</l>
+               <l>How creatures first receivde their shapes,</l>
+               <l>how monsters beare the bell,</l>
+               <l>The glory of celestiall powers,</l>
+               <l>which in the heauens dwell:</l>
+               <l>How crooked <hi>Chao<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> was disperste,</l>
+               <l>which lay in loathsome lumpes,</l>
+               <l>Vnfurnished with Natures gifts:</l>
+               <l>how al things in their dumpes</l>
+               <l>Lay drownde in silence fearfull pawes,</l>
+               <l>til rocks were rent asunder,</l>
+               <l>How at the laste one Lambe by death,</l>
+               <l>did shew his workes of wonder,</l>
+               <l>Howe earthly Princes had their rule,</l>
+               <l>howe came in noble blouds,</l>
+               <l>How first the artificiall barkes</l>
+               <l>did cut the foming floudes:</l>
+               <l>How Sun and Moone do kéepe their course,</l>
+               <l>how all things in their kinde,</l>
+               <l>Yéelde reuerence to the sacred seates</l>
+               <l>of god with harte and minde.</l>
+               <l>If these things be of true reporte,</l>
+               <l>as sure no doubt they be,</l>
+               <pb facs="tcp:176910:7"/>
+               <l>Deny not Poets their due praise</l>
+               <l>whose works are lefte to sée:</l>
+               <l>Their watchfull toile, their busie care,</l>
+               <l>their quaking hand and quills,</l>
+               <l>Their whetted wits for knowledge sake:</l>
+               <l>profoundnesse in their skills,</l>
+               <l>Doth serue vs as a Christall glasse</l>
+               <l>to gaze vpon our folly,</l>
+               <l>Wherin our faults are portrayde out,</l>
+               <l>though shewes do make vs holy.</l>
+               <l>But some, whose ydle mindes are bent</l>
+               <l>to leade a carelesse daunce,</l>
+               <l>And féede the present time, without</l>
+               <l>regarde of future chaunce,</l>
+               <l>Thinke Nature hath bestowde hir gifts</l>
+               <l>with such sufficient store,</l>
+               <l>That Arte can stande them small in stéede,</l>
+               <l>to make their knowledge more.</l>
+               <l>Thus Fancie féedes their fond conceits,</l>
+               <l>whereby the swéete delites,</l>
+               <l>That auntient writers erst haue had</l>
+               <l>to cheare their dulled sprites,</l>
+               <l>Are drowned in Obliuions denne,</l>
+               <l>so wrested, and so wrung,</l>
+               <pb facs="tcp:176910:7"/>
+               <l>That all their scrolls and swéete records,</l>
+               <l>must néeds decay ere long.</l>
+               <l>The carping crue that holds in spite,</l>
+               <l>that best contents the wise,</l>
+               <l>In finding faults with others workes</l>
+               <l>haue <hi>Argus</hi> hundred eies:</l>
+               <l>They rifle volumes leafe by leafe,</l>
+               <l>
+                  <hi>verbatim</hi> to suruay</l>
+               <l>The substaunce, or the circumstance:</l>
+               <l>and then in scorne they say:</l>
+               <l>This probleme here is ill applide,</l>
+               <l>that tearme is much abusde.</l>
+               <l>Here is a lame discourse indéede,</l>
+               <l>there <hi>Priscians</hi> pate is brusde:</l>
+               <l>Thus are the Poets toste and turnde:</l>
+               <l>their labours rent to ragges:</l>
+               <l>And all the swéetenesse of their time,</l>
+               <l>truste vp in Tinkers bagges:</l>
+               <l>The silly labourer that toiles</l>
+               <l>in shoures of haile and snow,</l>
+               <l>Doth make a pastime of his paine,</l>
+               <l>a welfare of his woe.</l>
+               <l>Such is his hope, that <hi>Vesper</hi> commes,</l>
+               <l>and <hi>Phoebus</hi> turnde to rest,</l>
+               <pb facs="tcp:176910:8"/>
+               <l>He shall receiue his earned due,</l>
+               <l>to vse as he thinkes best.</l>
+               <l>So lights the writers lot,</l>
+               <l>who beates his busied braine,</l>
+               <l>For no rewarde, but to receiue</l>
+               <l>goodwill to quite his paine.</l>
+               <l>The houering Bee that houereth long</l>
+               <l>about the fragrant floure,</l>
+               <l>With hoppes and skippes to searh and séeke</l>
+               <l>the swéete leafe from the soure,</l>
+               <l>Doth at the laste in quiet hiue</l>
+               <l>sucke vp the pleasante hony,</l>
+               <l>Which to hir selfe doth pleasure bring,</l>
+               <l>and yéeldes hir maister mony.</l>
+               <l>The labouring Horse, whiche in the yoke</l>
+               <l>goeth grudging euery day,</l>
+               <l>At night receiues in shewe of thankes,</l>
+               <l>both litter, corne and hay.</l>
+               <l>Then since that neither Bee nor Beast</l>
+               <l>do thankefulnesse eschue,</l>
+               <l>Let busy Findfaults cease to grudge,</l>
+               <l>giue <hi>Caesar C<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>sars</hi> due.</l>
+               <l>But what meane I on such reproofe</l>
+               <l>to argue all this while?</l>
+               <pb facs="tcp:176910:8"/>
+               <l>As though that for a Poets praise</l>
+               <l>I writ this ragged stile?</l>
+               <l>Not so, I neuer scalde the cliffe</l>
+               <l>whereas the sacred nurse</l>
+               <l>Of learning, hath hir residence,</l>
+               <l>so much my hap's the worse.</l>
+               <l>I neuer dranke the dainty drops</l>
+               <l>that issue from the font,</l>
+               <l>Wheras eche scholler claimes degrée</l>
+               <l>to rest in high account,</l>
+               <l>Yet am I as a subiect sworne</l>
+               <l>to reuerence their déeds,</l>
+               <l>And to refreshe their worthy worke,</l>
+               <l>that darke obliuious wéeds</l>
+               <l>Not ouergrowe their fragrant floures,</l>
+               <l>whose vertues do surpasse,</l>
+               <l>To open secreate mysteries,</l>
+               <l>which else eclipsed was.</l>
+               <l>But if my former ydle daies</l>
+               <l>to study had bin bent,</l>
+               <l>Or if that God and Fortune to</l>
+               <l>had giuen their consent,</l>
+               <l>That I amongste the learned might</l>
+               <l>haue claimde but lowest roome,</l>
+               <pb facs="tcp:176910:9"/>
+               <l>Then in great letters all of golde</l>
+               <l>vpon <hi>Apolloes</hi> Toombe,</l>
+               <l>I woulde haue writ such memories</l>
+               <l>in honor of his name,</l>
+               <l>That should haue bin a double meanes</l>
+               <l>to beautifie his fame.</l>
+               <l>But wishes nought preuaile,</l>
+               <l>I yéelde to losse of time,</l>
+               <l>Sith verse and I so diffrent are,</l>
+               <l>Ile presse in ragged rime,</l>
+               <l>To manifest the méere goodwill</l>
+               <l>that I to learning owe,</l>
+               <l>No painted words, but perfect déeds,</l>
+               <l>shall my inuention showe.</l>
+               <l>Not that I prease for praise,</l>
+               <l>I shoote not at that white,</l>
+               <l>But for to conquere sluggish slouth,</l>
+               <l>I choose this newe delite:</l>
+               <l>And if these trifles fondly pende</l>
+               <l>which I present in place,</l>
+               <l>Not wittily, though willingly</l>
+               <l>may win your graunt of grace,</l>
+               <l>Then haue I scalde the doubtfull forte,</l>
+               <l>the victorie is mine.<gap reason="missing" extent="1+ pages">
+                     <desc>〈1+ pages missing〉</desc>
+                  </gap>
+               </l>
+            </lg>
+            <pb facs="tcp:176910:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
